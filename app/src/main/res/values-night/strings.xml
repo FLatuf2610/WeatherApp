@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_location_body">To continue, please activate device\'s location, which uses Google\'s location services</string>
+</resources>

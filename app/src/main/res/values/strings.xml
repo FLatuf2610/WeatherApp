@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">API practice</string>
+    <string name="dialog_location_body">To continue, please activate device\'s location, which uses Google\'s location services</string>
+    <string name="title_activity_detail_weather">DetailWeatherActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="hourly_broadcast">Hourly broadcast</string>
+    <string name="_8_day_broadcast">8 Day Broadcast</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="uv_index">UV Index</string>
+    <string name="wind">Wind Speed</string>
+</resources>
